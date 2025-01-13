@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1736562725 source:c:\codeblocks_workspace\rsa_encryption\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1736810336 source:d:\rsa\rsa_encryption\main.c
+	<stdio.h>
+	<stdlib.h>
+
