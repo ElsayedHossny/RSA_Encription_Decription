@@ -21,6 +21,7 @@ int decToBinary(int n){
 }
 
 int MulInverse_EEA(int PHI_N){
+    //////////////////////////////////Check_gcd///////////////////////////////////////////////
 int Big=0,Small=0,d=0;
 int Arr_R[10],Arr_Q[10],T0=0,T1=1;
     if(Key_ENC == PHI_N){
